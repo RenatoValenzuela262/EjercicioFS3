@@ -1,0 +1,6 @@
+com\clubdeportivo\serviciocanchas\repository\CanchaRepository.class
+com\clubdeportivo\serviciocanchas\ServiciocanchasApplication.class
+com\clubdeportivo\serviciocanchas\model\Cancha.class
+com\clubdeportivo\serviciocanchas\services\CanchaServices.class
+com\clubdeportivo\serviciocanchas\services\ServicesImpl.class
+com\clubdeportivo\serviciocanchas\controller\CanchaController.class
